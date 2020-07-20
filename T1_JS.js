@@ -159,7 +159,7 @@ function getFile()
 			ctx.beginPath();
 			ctx.strokeStyle ="black";
 		    ctx.moveTo(blocks(4),blocks(4));
-		    ctx.strokeText("INR",blocks(4),blocks(4));
+		    ctx.strokeText("CURRENCY",blocks(4),blocks(4));
 		    ctx.stroke();
 		}
 
